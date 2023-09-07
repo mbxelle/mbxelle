@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mbxelle
-- 👀 I’m interested in cool coding projects and just learning something new. 
+- 👀 I’m interested in cool coding projects and just learning things i'm interested in. 
 - 🌱 I’m currently learning data structures and algorithms.
 - 💞️ I’m looking to collaborate on anything. 
 - 📫 How to reach me via my email mbxelle@gmail.com. 
