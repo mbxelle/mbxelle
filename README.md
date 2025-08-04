@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @mbxelle
+- 👋 Hi, I’m michelle
 - 👀 I’m interested in cool coding projects and learning interesting things. 
-- 💞️ I’m looking to collaborate on anything. 
 - 📫 How to reach me via my email mbxelle@gmail.com. 
 
 <!---
